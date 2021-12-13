@@ -10,7 +10,7 @@ https://css-tricks.com/perfect-full-page-background-image/
  */
 
   html { 
-    background: url(https://imgr.search.brave.com/XdNgaV-2L3XTyy45skgQK6aaJfcliThpYfvMfSHPzLg/fit/948/225/ce/1/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5T/SnBwMnB3d1pnVXVs/TF9jUW9QbjhnSGFE/dCZwaWQ9QXBp) no-repeat center center fixed; 
+    background: url(https://img.wallpapersafari.com/desktop/1600/900/5/72/YzmGEX.jpg) no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -46,7 +46,7 @@ img{
 .thirdDiv{
     background-color: bisque;
     border: 50px solid;
-    border-color: black;
+    border-color: #000957;
     padding: 50px;
     height: 600px;
     width: 500px;
